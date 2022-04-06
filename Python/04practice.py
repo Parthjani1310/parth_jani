@@ -10,3 +10,4 @@ favLang['tej'] = c
 favLang['kruti'] = d
 
 print(favLang)
+  
